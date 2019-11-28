@@ -3,3 +3,4 @@ test2
 void foo()
 line 4
 line 5
+line 6
